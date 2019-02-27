@@ -7,4 +7,4 @@ spring:
       name: application-plat-service #github上面名称
       #profile: test 环境
       #profile: ${spring.profiles.active} #环境:在达成jar包运行的时候,动态传入参数
-      profile: dev
+      profile: test
