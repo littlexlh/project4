@@ -4,11 +4,18 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic_parent/basic_parent.iml" filepath="$PROJECT_DIR$/basic_parent/basic_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic_parent/basic_util/basic_util.iml" filepath="$PROJECT_DIR$/basic_parent/basic_util/basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_interface/common_interface.iml" filepath="$PROJECT_DIR$/common/common_interface/common_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common_service_8003/common_service_8003.iml" filepath="$PROJECT_DIR$/common/common_service_8003/common_service_8003.iml" />
       <module fileurl="file://$PROJECT_DIR$/config_server_1299/config_server_1299.iml" filepath="$PROJECT_DIR$/config_server_1299/config_server_1299.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka_server_7001/eureka_server_7001.iml" filepath="$PROJECT_DIR$/eureka_server_7001/eureka_server_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus_generator/mybatisplus_generator.iml" filepath="$PROJECT_DIR$/mybatisplus_generator/mybatisplus_generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/plat_parent/plat_interface/plat_interface.iml" filepath="$PROJECT_DIR$/plat_parent/plat_interface/plat_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/plat_parent/plat_parent.iml" filepath="$PROJECT_DIR$/plat_parent/plat_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/plat_parent/plat_service_provider_8001/plat_service_provider_8001.iml" filepath="$PROJECT_DIR$/plat_parent/plat_service_provider_8001/plat_service_provider_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product.iml" filepath="$PROJECT_DIR$/product/product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product_interface/product_interface.iml" filepath="$PROJECT_DIR$/product/product_interface/product_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product_service_8002/product_service_8002.iml" filepath="$PROJECT_DIR$/product/product_service_8002/product_service_8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/project_parent.iml" filepath="$PROJECT_DIR$/project_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul_server_9527/zuul_server_9527.iml" filepath="$PROJECT_DIR$/zuul_server_9527/zuul_server_9527.iml" />
     </modules>

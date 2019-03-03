@@ -4,11 +4,21 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/basic_parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/basic_parent/basic_util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/common_service_8003" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config_server_1299" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka_server_7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisplus_generator" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/plat_parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/plat_parent/plat_interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/plat_parent/plat_service_provider_8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product/product_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product/product_service_8002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zuul_server_9527" charset="UTF-8" />
   </component>
 </project>

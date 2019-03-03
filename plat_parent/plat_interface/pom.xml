@@ -12,6 +12,7 @@
     <artifactId>plat_interface</artifactId>
 
     <dependencies>
+        <!--公共的依赖-->
         <dependency>
             <groupId>xlh.mall.project4</groupId>
             <artifactId>basic_util</artifactId>

@@ -4,8 +4,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-import xlh.mall.project4.AjaxResult;
 import xlh.mall.project4.domain.Employee;
+import xlh.mall.project4.util.AjaxResult;
 
 @RestController
 @RequestMapping("/employee")
@@ -22,3 +22,4 @@ public class EmployeeController {
         }
     }
 }
+

@@ -35,3 +35,4 @@ public class Swagger2 {
                 .build();
     }
 }
+

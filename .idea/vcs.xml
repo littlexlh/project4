@@ -3,5 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="svn" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/mybatisplus_generator" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/product/product_interface" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/product/product_service_8002" vcs="svn" />
   </component>
 </project>
