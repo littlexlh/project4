@@ -2,7 +2,7 @@ package xlh.mall.project4.util;
 
 import java.util.ArrayList;
 import java.util.List;
-//分页对象：easyui只需两个属性，total(总数),datas（分页数据）就能实现分页
+//分页对象：是对前台展示数据的封装
 public class PageList<T> {
     //总数据条数
     private long total;
